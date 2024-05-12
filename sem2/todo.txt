@@ -1,0 +1,23 @@
+1. Arrays 
+sort in ascending and decensding
+find smallest and largest in the Arrays
+cycle an array to right and left
+
+2. 2d array
+transpose a matric without an new matrix
+checkk for matrix symmetry
+matrix multiply
+find sum of diagonal elements of matrix
+
+3. String
+palindrome
+make strcpy and strcmp fucntion
+count vowels, consonatns, digits, spaces in a entered String
+
+4. struct
+sportclub player, name, age, no. of matches, no. of runs, avg run rate.
+employee, code, name, salary, date of joining
+students, roll no., name, phy, chem, maths, total marks, pecentage, arrange in descending order of %
+
+
+
